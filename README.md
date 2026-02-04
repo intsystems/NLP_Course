@@ -1,26 +1,25 @@
 # NLP Course, 2026
 
-This course provides a comprehensive exploration of modern deep learning techniques, from foundational concepts to advanced topics.
+Current curriculum covers topic from basic NLP techinques to the most modern ones, that may be helpful for custom training of LLMs:
 
-- **Introduction to Neural Networks:** MLP, Backpropagation, Initialization, Optimization, Regularization, CNN
-- **Natural Language Processing:** Word Embeddings, RNN, LSTM, Attention, Transformer
-- **Computer Vision:** Classification, Object detection, Segmentation
-- **Reinforcement Learning:** Multi-armed Bandits, Monte Carlo Methods, Policy Improvement
-- **Generative Models:** Autoregression, VAE, GAN, Diffusion, Flow Matching
-- **Advanced NLP:** LLMs, Fine-tuning, RAG, Agents, Multi-modal Models
-- **Acceleration:** Quantization, Pruning, Distillation, KV-Cache, Flash Attention
+- **NLP Basics**: токенизация, предобработка, представления текста
+- **Text & Language Models**: эмбеддинги, n-gram, RNN, LSTM, seq2seq, attention
+- **Transformers & LLMs**: Transformer, pre-training (MLM/CLM), prompting, fine-tuning, PEFT
+- **Scaling & Optimization**: распределённое обучение, MoE, efficient inference, квантизация
+- **Retrieval & Agents:** Information Retrieval, RAG, агентные системы
+- **Post-training**: alignment, RLHF, DPO
 
 ## Course Staff
 
-- German Gritsai [@E]()
-- Anastasiia Vozniuk [@DorinDaniil](https://github.com/DorinDaniil)
-- Ildar Khabutdinov [@kisnikser](https://github.com/kisnikser)
+- German Gritsai [@grgera](https://github.com/grgera)
+- Anastasiia Vozniuk [@natriistorm](https://github.com/natriistorm)
+- Ildar Khabutdinov [@depinwhite](https://github.com/depinwhite)
 
 ## Materials
 
 | Week # | Date | Topic | Lecture | Seminar | Recording |
 | :-: | - | - | :-: | :-: | :-: |
-| 1 | February 10 |Intro to NLP | [slides](https://github.com/intsystems/Deep-Learning-Course/blob/main/lectures/Lecture%201.pdf), [slides with notes](https://github.com/intsystems/Deep-Learning-Course/blob/main/lectures/Lecture%201%20(with%20notes).pdf) | [ipynb](https://github.com/intsystems/Deep-Learning-Course/blob/main/seminars/Seminar_1_autodiff_impl.ipynb) | [record](https://www.youtube.com/watch?v=5nJy3tk-bBk) |
+| 1 | February 10 |Intro to NLP | [slides](), [slides with notes]() | [ipynb]() | [record]() |
 
 
 ## Homeworks
