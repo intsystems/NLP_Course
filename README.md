@@ -2,11 +2,11 @@
 
 Current curriculum covers topic from basic NLP techinques to the most modern ones, that may be helpful for custom training of LLMs:
 
-- **NLP Basics**: токенизация, предобработка, представления текста
-- **Text & Language Models**: эмбеддинги, n-gram, RNN, LSTM, seq2seq, attention
+- **NLP Basics**: tokenization, text preprocessing, text representations
+- **Text & Language Models**: embeddings, n-gram models, RNNs, LSTMs, seq2seq, attention
 - **Transformers & LLMs**: Transformer, pre-training (MLM/CLM), prompting, fine-tuning, PEFT
-- **Scaling & Optimization**: распределённое обучение, MoE, efficient inference, квантизация
-- **Retrieval & Agents:** Information Retrieval, RAG, агентные системы
+- **Scaling & Optimization**: : distributed training, MoE, efficient inference, quantization
+- **Retrieval & Agents:** Information Retrieval, RAG, agent-based systems
 - **Post-training**: alignment, RLHF, DPO
 
 ## Course Staff
@@ -24,15 +24,21 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 
 ## Homeworks
 
-| Homework # | Date | Deadline | Description | Link |
-| :-: | - | - | - | :-: |
-| 1 | September, 8 | September, 29 | Autograd implementation | [google form](https://forms.gle/7V29FvAw2NFyu6yW9) |
+TBA
 
 ## Game Rules
 
+TBA
+
 ### Final Grade:
+
+TBA
 
 ## Prerequisities
 - Probability Theory + Statistics
 - Machine Learning
 - Python
+- Basic knowledge on NLP
+
+We expect students to know basics of Natural Language Processing, as the course focuses on more advanced topics. When you unsure about the basics, we recommned to watch these lectures / read these materials:
+1. [Course from Lena Voita](https://lena-voita.github.io/nlp_course.html)
