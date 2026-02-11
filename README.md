@@ -19,7 +19,7 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 
 | Week # | Date | Topic | Lecture | Seminar | Recording |
 | :-: | - | - | :-: | :-: | :-: |
-| 1 | February 10 |Intro to NLP | [slides](), [slides with notes]() | [ipynb]() | [record]() |
+| 1 | February 10 |Intro to NLP | [slides](slides/week1_nlp.pdf), | [ipynb]() | [record]() |
 
 
 ## Homeworks
