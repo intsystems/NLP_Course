@@ -21,9 +21,9 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 
 ## Materials
 
-| Week # | Date | Topic | Lecture | Seminar | Recording |
-| :-: | - | - | :-: | :-: | :-: |
-| 1 | February 10 |Intro to NLP | [slides](slides/week1_intro_to_nlp.pdf), | [ipynb](seminars/week1_intro_to_nlp.ipynb) | [TBA]() |
+| Week # | Date | Topic | Lecture | Seminar | Additional | Recording |
+| :-: | :-: | :--- | :-: | :-: | :-: | :-: |
+| 1 | February 10 | Intro to NLP & Tokenization | [slides](slides/week1_intro_to_nlp.pdf) | [ipynb](seminars/week1_intro_to_nlp.ipynb) | [materials](additional/week1.md) | [TBA]() |
 
 
 ## Homeworks
