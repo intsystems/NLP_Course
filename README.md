@@ -38,6 +38,8 @@ Both oral exam and homeworks are blocking parts, you need to pass both parts to 
 - Python [Python guide](http://lxmls.it.pt/2025/documents/LxMLS_guide_2025.pdf)
 - Basic knowledge on NLP
 
-We expect students to know basics of Natural Language Processing, as the course focuses on more advanced topics. When you unsure about the basics, we recommned to watch these lectures / read these materials:
+We expect students to know basics of Natural Language Processing, as the course focuses on more advanced topics. When you unsure about the basics, we recommned to read these lectures / materials:
 1. [Course from Lena Voita](https://lena-voita.github.io/nlp_course.html)
 2. [Speech and Language Processing by Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
+4. [Stanford CS 224n](https://web.stanford.edu/class/cs224n/)
+5. [Great blog on Transformer & BERT](http://jalammar.github.io)
