@@ -28,11 +28,9 @@ TBA
 
 ## Game Rules
 
-TBA
+Final mark = 0.3 Oral Exam + 0.7 Homework
 
-### Final Grade:
-
-TBA
+Both oral exam and homeworks are blocking parts, you need to pass both parts to pass the course.
 
 ## Prerequisities
 - Probability Theory + Statistics
