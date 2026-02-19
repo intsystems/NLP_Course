@@ -24,6 +24,7 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 | Week # | Date | Topic | Lecture | Seminar | Additional | Recording |
 | :-: | :-: | :--- | :-: | :-: | :-: | :-: |
 | 1 | February 10 | Intro to NLP & Tokenization | [slides](slides/week1_intro_to_nlp.pdf) | [ipynb](seminars/week1_intro_to_nlp.ipynb) | [materials](additional/week1.md) | [TBA]() |
+| 2 | February 17 | Feature Extraction and Word Representations | [slides](slides/week2_feature_extraction.pdf) | [ipynb](seminars/week2_feature_extraction.ipynb) | [materials](additional/week2.md) | [TBA]() |
 
 
 ## Homeworks
