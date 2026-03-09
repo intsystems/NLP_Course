@@ -25,6 +25,8 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 | :-: | :-: | :--- | :-: | :-: | :-: | :-: |
 | 1 | February 10 | Intro to NLP & Tokenization | [slides](slides/week1_intro_to_nlp.pdf) | [ipynb](seminars/week1_intro_to_nlp.ipynb) | [materials](additional/week1.md) | [TBA]() |
 | 2 | February 17 | Feature Extraction and Word Representations | [slides](slides/week2_feature_extraction.pdf) | [ipynb](seminars/week2_feature_extraction.ipynb) | [materials](additional/week2.md) | [TBA]() |
+| 3 | February 24 | Language Modeling, Seq2Seq, Attention | [slides](slides/week3_language_modeling.pdf) | - | [materials](additional/week3.md) | [TBA]() |
+| 4 | March 3 | Transfer Learning, BERT-like, LLMs | [slides](slides/week4_transfer_learning.pdf) | [ipynb](seminars/week4_transfer_learning.ipynb) | [materials](additional/week4.md) | [TBA]() |
 
 
 ## Homeworks
