@@ -31,7 +31,10 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 
 ## Homeworks
 
-TBA
+| Task # | Release | Deadline | Inside | Materials |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | March 10 | March 19 - 23:59 | Explore NLP pipeline | [ipynb](homeworks/HW1.ipynb) |
+
 
 ## Game Rules
 
