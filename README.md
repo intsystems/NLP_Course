@@ -4,13 +4,15 @@
   <img width="600" alt="NLP Logo" src="https://github.com/user-attachments/assets/e8206492-655c-406f-8b79-ffe660c8b610" />
 </p>
 
-Current curriculum covers topic from basic NLP techinques to the most modern ones, that may be helpful for custom training of LLMs:
+Current curriculum covers topic from classical NLP to modern LLM training, scaling, and deployment:
 
-- **NLP Basics**: tokenization, text preprocessing, text representations
-- **Text & Language Models**: embeddings, n-gram models, RNNs, LSTMs, seq2seq, attention
-- **Transformers & LLMs**: Transformer, pre-training (MLM/CLM), prompting, fine-tuning, PEFT
-- **Scaling & Optimization**: : distributed training, MoE, KV-cache, Flash Attention, efficient inference, quantization
-- **Retrieval & Agents:** Information Retrieval, RAG, agent-based systems
+- **Foundations**: text preprocessing, tokenization (BPE / WordPiece / Unigram), word representations (TF-IDF, Word2Vec, GloVe)
+- **Sequence Models**: n-gram & neural LMs, RNN/LSTM, seq2seq, attention, Transformer
+- **Pre-trained LMs & LLMs**: BERT / GPT / T5, transfer learning, prompting, CLM/MLM pre-training, scaling laws
+- **Modern LLM Architecture**: RoPE / ALiBi, KV cache, MHA → MQA / GQA / MLA, RMSNorm, SwiGLU
+- **Training at Scale**: mixed precision, ZeRO / FSDP, 5D parallelism, Mixture of Experts
+- **Efficient Inference**: quantization (GPTQ, AWQ, INT8/4, FP8), distillation, speculative decoding, PagedAttention
+- **Applied LLMs**: Information Retrieval, RAG, AI agents (ReAct, tool use, memory, MCP)
 - **Post-training**: alignment, RLHF, DPO
 
 ## Course Staff
@@ -30,6 +32,10 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 | 5 | March 10 | Large Language Models Pre-Training | [slides](slides/week5_llm_pretrain.pdf) | - | [materials](additional/week5.md) | [YouTube](https://www.youtube.com/live/nzc2dalbDmM?si=M-k7JRrWLl3fVDw_) |
 | 6 | March 17 | Modern LLMs evolution beyond the Transformer | [slides](slides/week6_transformer_evolution.pdf) | [ipynb](seminars/week6_transformer_evolution.ipynb) | [materials](additional/week6.md) | [YouTube](https://www.youtube.com/live/7CsLtY_vFi8?si=qL9bOpiVdk_s282z) |
 | 7 | March 31 | Training Large Language Models | [slides](slides/week7_training_llms.pdf) | - | [materials](additional/week7.md) | [TBA]() |
+| 8 | April 7 | 5D Parallelism, Mixture of Experts | [slides](slides/week8_5d_and_moe.pdf) | - | [materials](additional/week8.md) | [TBA]() |
+| 9 | April 14 | Efficient Inference Techniques and Methods | [slides](slides/week9_efficient_inference.pdf) | - | [materials](additional/week9.md) | [TBA]() |
+| 10 | April 28 | Information Retrieval & RAG | [slides](slides/week10_information_retrieval_rag.pdf) | - | [materials](additional/week10.md) | [TBA]() |
+| 11 | May 5 | AI Agents  | [slides](slides/week11_agents.pdf) | [ipynb](seminars/week11_agents.ipynb) | [materials](additional/week11.md) | [TBA]() |
 
 
 ## Homeworks
@@ -37,6 +43,8 @@ Current curriculum covers topic from basic NLP techinques to the most modern one
 | Task # | Release | Deadline | Inside | Materials |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | March 10 | March 19 - 23:59 | Explore NLP pipeline | [ipynb](homeworks/HW1.ipynb) |
+| 2 | April 19 | May 3 - 23:59 | Models Fine-Tuning | [ipynb](homeworks/HW2.ipynb) |
+| 3 | May 9 | May 17 - 23:59 | AI agent systems | [ipynb](homeworks/HW3.ipynb) |
 
 
 ## Game Rules
