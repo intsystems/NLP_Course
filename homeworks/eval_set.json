@@ -1,0 +1,75 @@
+{
+  "description": "Evaluation set for ReAct + Reflexion homework. Each question requires 2-4 reasoning steps using wikipedia_search and/or calculator. Ground-truth answers are exact strings or numbers; use a tolerant string-match (case-insensitive, ignore trailing punctuation) when grading.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In what year was the author of 'Pride and Prejudice' born? Multiply that year by 2.",
+      "answer": "3550",
+      "answer_aliases": ["3550", "3,550"],
+      "hint_for_grader": "Jane Austen, born 1775. 1775 * 2 = 3550."
+    },
+    {
+      "id": 2,
+      "question": "How many years passed between the founding of the Roman Empire (27 BC) and the fall of Constantinople (1453 AD)?",
+      "answer": "1480",
+      "answer_aliases": ["1480", "1,480"],
+      "hint_for_grader": "27 + 1453 = 1480 (no year zero, but for this task simple arithmetic is accepted)."
+    },
+    {
+      "id": 3,
+      "question": "In what year was Leonardo da Vinci born? Add 500 to that year.",
+      "answer": "1952",
+      "answer_aliases": ["1952", "1,952"],
+      "hint_for_grader": "Born 1452. 1452 + 500 = 1952."
+    },
+    {
+      "id": 4,
+      "question": "Albert Einstein received the Nobel Prize in Physics in a certain year. What is the square root of that year, rounded to two decimal places?",
+      "answer": "43.83",
+      "answer_aliases": ["43.83", "43.84", "43.82"],
+      "hint_for_grader": "Nobel Prize 1921. sqrt(1921) ≈ 43.8292..."
+    },
+    {
+      "id": 5,
+      "question": "How many sides does a dodecagon have? Raise that number to the power of 3.",
+      "answer": "1728",
+      "answer_aliases": ["1728", "1,728"],
+      "hint_for_grader": "Dodecagon = 12 sides. 12^3 = 1728."
+    },
+    {
+      "id": 6,
+      "question": "In what year did the first human walk on the Moon? How many years ago was that, counting from the year 2025?",
+      "answer": "56",
+      "answer_aliases": ["56"],
+      "hint_for_grader": "Apollo 11 in 1969. 2025 - 1969 = 56."
+    },
+    {
+      "id": 7,
+      "question": "Marie Curie won two Nobel Prizes. In what year did she win her second one? Subtract the year of her first Nobel Prize from her second.",
+      "answer": "8",
+      "answer_aliases": ["8"],
+      "hint_for_grader": "First in Physics 1903, second in Chemistry 1911. 1911 - 1903 = 8."
+    },
+    {
+      "id": 8,
+      "question": "What is the speed of light in vacuum, in meters per second? Divide it by 1000 and round to the nearest integer.",
+      "answer": "299792",
+      "answer_aliases": ["299792", "299,792", "299793"],
+      "hint_for_grader": "c = 299792458 m/s; / 1000 = 299792.458; rounded = 299792."
+    },
+    {
+      "id": 9,
+      "question": "How many planets are in our Solar System (excluding Pluto)? Multiply that number by the number of moons of Earth.",
+      "answer": "8",
+      "answer_aliases": ["8"],
+      "hint_for_grader": "8 planets * 1 moon = 8."
+    },
+    {
+      "id": 10,
+      "question": "What year was the Eiffel Tower completed? Compute that year modulo 100.",
+      "answer": "89",
+      "answer_aliases": ["89"],
+      "hint_for_grader": "Completed 1889. 1889 mod 100 = 89."
+    }
+  ]
+}
