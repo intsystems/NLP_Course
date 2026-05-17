@@ -27,15 +27,16 @@ Current curriculum covers topic from classical NLP to modern LLM training, scali
 | :-: | :-: | :--- | :-: | :-: | :-: | :-: |
 | 1 | February 10 | Intro to NLP & Tokenization | [slides](slides/week1_intro_to_nlp.pdf) | [ipynb](seminars/week1_intro_to_nlp.ipynb) | [materials](additional/week1.md) | [TBA]() |
 | 2 | February 17 | Feature Extraction and Word Representations | [slides](slides/week2_feature_extraction.pdf) | [ipynb](seminars/week2_feature_extraction.ipynb) | [materials](additional/week2.md) | [TBA]() |
-| 3 | February 24 | Language Modeling, Seq2Seq, Attention | [slides](slides/week3_language_modeling.pdf) | - | [materials](additional/week3.md) | [TBA]() |
+| 3 | February 24 | Language Modeling, Seq2Seq, Attention | [slides](slides/week3_language_modeling.pdf) | - | [materials](additional/week3.md) | [YouTube](https://www.youtube.com/watch?v=Nz-5KC5mTRk&list=PLk4h7dmY2eYH5YeSxV-JsWTAdqkkrYU3n&index=10&t=1840s&pp=iAQB) |
 | 4 | March 3 | Transfer Learning, BERT-like, LLMs | [slides](slides/week4_transfer_learning.pdf) | [ipynb](seminars/week4_transfer_learning.ipynb) | [materials](additional/week4.md) | [YouTube](https://www.youtube.com/live/66rXuGgv9N0?si=82i77Xnd6dmNJEa_) |
 | 5 | March 10 | Large Language Models Pre-Training | [slides](slides/week5_llm_pretrain.pdf) | - | [materials](additional/week5.md) | [YouTube](https://www.youtube.com/live/nzc2dalbDmM?si=M-k7JRrWLl3fVDw_) |
 | 6 | March 17 | Modern LLMs evolution beyond the Transformer | [slides](slides/week6_transformer_evolution.pdf) | [ipynb](seminars/week6_transformer_evolution.ipynb) | [materials](additional/week6.md) | [YouTube](https://www.youtube.com/live/7CsLtY_vFi8?si=qL9bOpiVdk_s282z) |
-| 7 | March 31 | Training Large Language Models | [slides](slides/week7_training_llms.pdf) | - | [materials](additional/week7.md) | [TBA]() |
-| 8 | April 7 | 5D Parallelism, Mixture of Experts | [slides](slides/week8_5d_and_moe.pdf) | - | [materials](additional/week8.md) | [TBA]() |
-| 9 | April 14 | Efficient Inference Techniques and Methods | [slides](slides/week9_efficient_inference.pdf) | - | [materials](additional/week9.md) | [TBA]() |
-| 10 | April 28 | Information Retrieval & RAG | [slides](slides/week10_information_retrieval_rag.pdf) | - | [materials](additional/week10.md) | [TBA]() |
-| 11 | May 5 | AI Agents  | [slides](slides/week11_agents.pdf) | [ipynb](seminars/week11_agents.ipynb) | [materials](additional/week11.md) | [TBA]() |
+| 7 | March 31 | Training Large Language Models | [slides](slides/week7_training_llms.pdf) | - | [materials](additional/week7.md) | [YouTube](https://www.youtube.com/watch?v=Z7ccnIxJCPI&list=PLk4h7dmY2eYH5YeSxV-JsWTAdqkkrYU3n&index=4&t=6s&pp=iAQB) |
+| 8 | April 7 | 5D Parallelism, Mixture of Experts | [slides](slides/week8_5d_and_moe.pdf) | - | [materials](additional/week8.md) | [YouTube](https://www.youtube.com/watch?v=zl5IAWlqbSc&list=PLk4h7dmY2eYH5YeSxV-JsWTAdqkkrYU3n&index=5&t=7s&pp=iAQB) |
+| 9 | April 14 | Efficient Inference Techniques and Methods | [slides](slides/week9_efficient_inference.pdf) | - | [materials](additional/week9.md) | [YouTube](https://www.youtube.com/watch?v=K9mAZGuvvx0&list=PLk4h7dmY2eYH5YeSxV-JsWTAdqkkrYU3n&index=6&t=4s&pp=iAQB) |
+| 10 | April 28 | Information Retrieval & RAG | [slides](slides/week10_information_retrieval_rag.pdf) | - | [materials](additional/week10.md) | [YouTube](https://www.youtube.com/watch?v=d6yUN8M93yE&list=PLk4h7dmY2eYH5YeSxV-JsWTAdqkkrYU3n&index=7&t=3427s&pp=iAQB) |
+| 11 | May 5 | AI Agents  | [slides](slides/week11_agents.pdf) | [ipynb](seminars/week11_agents.ipynb) | [materials](additional/week11.md) | [YouTube](https://www.youtube.com/watch?v=FBBApvIk8Wg&list=PLk4h7dmY2eYH5YeSxV-JsWTAdqkkrYU3n&index=8&t=2922s&pp=iAQB) |
+| 12 | May 14 | Alignment, RLHF, DPO  | [slides](slides/week12_alignment.pdf) | - | [materials](additional/week12.md) | [YouTube](https://www.youtube.com/watch?v=m1gTVHQ3h9o&list=PLk4h7dmY2eYH5YeSxV-JsWTAdqkkrYU3n&index=9&t=12s&pp=iAQB) |
 
 
 ## Homeworks
